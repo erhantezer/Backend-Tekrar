@@ -45,3 +45,7 @@ class Person:
 
 person1 = Person()
 person2 = Person()
+
+person1.location = "Turkey"
+print(person1.location) #! person1 ile person2 farklı dır location person2 de hata verecektir
+print(person2.location)
