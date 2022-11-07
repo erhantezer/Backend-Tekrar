@@ -7,7 +7,6 @@
 <br>
 
 <p align="center"><b>BASEBALL GAME</b></p>
-
 <br>
 
 You are keeping score for a baseball game with strange rules. The game consist of several rounds, where the scores of past rounds may affect future rounds' scores.
@@ -19,7 +18,6 @@ At the beginning of the game, you start with an empty record. You are given a li
 - **"C"** - Invalidate the pevious score, removing it from the record. It is guaranteed there will always be a previous score.
 
 *Return the sum of all the scores on the record.*
-
 <br>
 <br>
 
